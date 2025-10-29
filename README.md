@@ -2,7 +2,7 @@
 
 This repository contains the implementation of **Online Scaled Gradient Methods (OSGM)**, a framework for adaptive step-size learning in gradient-based optimization. The methods achieve **superlinear convergence** on strongly convex quadratic problems using first-order information.
 
-## 📖 Overview
+## Overview
 
 Gradient-based optimization methods often suffer from convergence speed limitations due to fixed step sizes. This project implements novel adaptive methods that learn optimal preconditioning matrices online, accelerating gradient descent beyond classical rates.
 

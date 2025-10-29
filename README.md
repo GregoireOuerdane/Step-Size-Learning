@@ -1,8 +1,5 @@
 # Online Scaled Gradient Methods (OSGM) for Step-size Learning
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-
 This repository contains the implementation of **Online Scaled Gradient Methods (OSGM)**, a framework for adaptive step-size learning in gradient-based optimization. The methods achieve **superlinear convergence** on strongly convex quadratic problems using first-order information.
 
 ## 📖 Overview

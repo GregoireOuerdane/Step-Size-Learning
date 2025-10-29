@@ -80,5 +80,3 @@ OSGM-step-size-learning/
 - **Gregoire Ouerdane** - OSGM-H, real data experiments
 - **Hussain Bukhari** - OSGM-G, AdaGrad, quadratic case implementations
 - Easy navigation for researchers and developers
-
-You can customize the repository URL, add more detailed results, or include additional installation instructions as needed.
